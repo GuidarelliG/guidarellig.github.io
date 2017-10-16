@@ -1,7 +1,8 @@
 /* this code refers to the html footer element. It colours it grey. If you want to change the color, change the `background-color`, and place whatever color code you want there. */
 footer { 
     display: block;
-    background-color: #f1f1f1; 
+    background-color: #f1f1f1;
+    text-align: center; 
 }
 
 /* this styles the header. Once again, change the `background-color` to change it to the color you want. */
@@ -27,4 +28,8 @@ li a {
 li a:hover {
       background-color: #555;
       color: white;
+}
+
+img {
+	border-radius: 50%;
 }
