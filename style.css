@@ -30,7 +30,12 @@ li a:hover {
       color: white;
 }
 
-img {
+imga {
 	width : 250px;
 	border-radius: 50%;
 }
+
+imgb {
+        width : 250px;
+}
+
