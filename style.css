@@ -1,4 +1,8 @@
 /* this code refers to the html footer element. It colours it grey. If you want to change the color, change the `background-color`, and place whatever color code you want there. */
+.content {
+  max-width: 1000px;
+  margin: auto;
+}
 footer { 
     display: block;
     background-color: #f1f1f1;
